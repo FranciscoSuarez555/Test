@@ -1,0 +1,27 @@
+div {
+    color: aliceblue;
+    background-color: rgb(38, 41, 41);
+
+    font-size: medium;
+
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+margin: 0 auto;
+padding: 10px;
+
+}
+h1{
+    background-color: blueviolet;
+    
+ 
+ display: flex;
+ justify-content: space-between;
+}
+
+body {
+    --oscuro: #212121;
+}
+p
+{
+margin:2px;
+
+}
